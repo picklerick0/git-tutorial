@@ -1,1 +1,1 @@
-print("Hello Wolrd , My First Git Repo")
+print("communism shall rise again")
